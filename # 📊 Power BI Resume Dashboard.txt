@@ -1,0 +1,9 @@
+# 📊 Power BI Resume Dashboard
+
+This repository contains my Power BI-based resume/portfolio dashboard file.
+
+- File: `PowerBI_Resume_Portfolio.pbix`
+- Tool used: Power BI Desktop
+- Highlights: Experience, Skills, Awards, Certifications
+
+🔽 Download the `.pbix` file and explore the report in Power BI Desktop.
